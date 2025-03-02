@@ -1,4 +1,4 @@
-# BankingSolutions
+# Banking Solutions
 
 This document outlines improvements for the Banking API, which is built using .NET 8, SQLite, Dapper, and follows Clean Architecture principles. The API manages customer accounts, supports different account types, and allows freezing accounts.
 
