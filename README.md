@@ -40,12 +40,9 @@ Minimal APIs lack validation and structured responses.
 
 Missing logging for request tracking and debugging.
 
-No pagination in GET endpoints, which can cause performance issues.
+Pagination in GET endpoints
 
 Use FluentValidation to validate incoming requests.
 
-No logging framework is used, making debugging difficult.
+Monitoring tools 
 
-No monitoring tools are integrated.
-
-No database migration strategy exists.
